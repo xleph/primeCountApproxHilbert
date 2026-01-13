@@ -1,0 +1,22 @@
+35a36,37
+> #define MAX 150
+> 
+44c46
+< double operand;
+---
+> double operand, doperand;
+63d64
+< double accum = 0.0;
+64a66,68
+> doperand = operand * operand;
+> double accum = doperand / (double)(2 * MAX + 1);
+> long long i = MAX;
+66,67c70,71
+<     for (long long i = 0; i < 150; i++) {
+<     accum += power(operand * operand, i) / (double)(2 * i + 1);
+---
+>     while (--i) {
+>     accum = (accum + 1.0 / (double)(2 * i + 1) ) * doperand;
+68a73,74
+> 
+> accum += 1.0;
