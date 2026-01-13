@@ -1,4 +1,4 @@
-# pi(x)
+# π(x)
 
 ## A number theoretical function allows striking visualization
 
@@ -10,7 +10,7 @@ Narrow expectations and vision aside, there was yet still to explore. Many appro
 
 ![Eq1](https://math.vercel.app/?color=cyan&from=%5Ctext%7Bpi%7D%28x%29%5Csim%5Cfrac%7Bx%7D%7B%5Cln%28x%29%7D.svg)
 
-is ineffably useful and impactful in its simplicity. This expression falls naturally out of an understanding that, within the exact formulation of Pi(x) (namely the one given in the below source) is a summation of Li(x^\mu)'s which is in fact asymptotic to x/ln(x). What we have above is several tiers departed from any rigorous process of derivation, and yet, is usually presented as a standalone awe-inspiring formula.
+is ineffably useful and impactful in its simplicity. This expression falls naturally out of an understanding that, within the exact formulation of π(x) (namely the one given in the below source) is a summation of Li(x^\mu)'s which is in fact asymptotic to x/ln(x). What we have above is several tiers departed from any rigorous process of derivation, and yet, is usually presented as a standalone awe-inspiring formula.
 
 I would argue from a pedagogical standpoint, the clear and total force of the above asymptotic relation can really only be felt in the presence of:
 
@@ -20,9 +20,9 @@ I would argue from a pedagogical standpoint, the clear and total force of the ab
 
 Now the following two equations hold
 
-![Eq3](https://math.vercel.app/?color=cyan&from=%5CPi%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B1%7D%7Br%7D%7D%5Ctext%7Bpi%7D%28x%5E%5Cfrac%7B1%7D%7Br%7D%29.svg)
+![Eq3](https://math.vercel.app/?color=cyan&from=%5CPi%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B1%7D%7Br%7D%7D%5Ctext%7B%5Cpi%7D%28x%5E%5Cfrac%7B1%7D%7Br%7D%29.svg)
 
-![Eq4](https://math.vercel.app/?color=cyan&from=%5Ctext%7Bpi%7D%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B%5Cmu%28x%29%7D%7Br%7D%7D%5CPi%28x%5E%5Cfrac%7B1%7D%7Br%7D%29.svg)
+![Eq4](https://math.vercel.app/?color=cyan&from=%5Ctext%7B%5Cpi%7D%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B%5Cmu%28x%29%7D%7Br%7D%7D%5CPi%28x%5E%5Cfrac%7B1%7D%7Br%7D%29.svg)
 
 [Source](deadlink)
 
