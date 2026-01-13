@@ -2,7 +2,7 @@
 
 ## A number theoretical function allows striking visualization
 
-The original prime visualization project repo'd [here](deadlink) follows a narrow train of thought. It was my expectation that patterned adjacencies would arise in the process of formatting prime numbers to a Hilbert curve presentation. In fact, this is ultimately unsurprising, given the existence of spokes on the Ulam spiral. Hilbert curves are, however, a flavor of prime density different from the prime-rich polynomials that are described by the Ulam spiral.
+The original prime visualization project repo'd [here](https://github.com/xleph/HilbertPrimes) follows a narrow train of thought. It was my expectation that patterned adjacencies would arise in the process of formatting prime numbers to a Hilbert curve presentation. In fact, this is ultimately unsurprising, given the existence of spokes on the Ulam spiral. Hilbert curves are, however, a flavor of prime density different from the prime-rich polynomials that are described by the Ulam spiral.
 
 Narrow expectations and vision aside, there was yet still to explore. Many approximations exist for the *n*th prime, formulations related to the Zeta function exist, formulations leveraging clever techniques related to factorials are also acknowledged, albeit not discussed. 
 
@@ -26,6 +26,8 @@ I would argue from a pedagogical standpoint, the clear and total force of the ab
 
 ![State3](https://math.vercel.app/?color=cyan&from=%5Ctext%7Bwhere%20%7D%5Cmu%28r%29%5Cbegin%7Bcases%7D%20%0A1%20%26%20r%20%3D%201%20%5C%5C%0A0%20%26%20%5Ctext%7Bthere%20is%20a%20square%20in%20%7Dr%5Ctext%7B's%20factorization%7D%20%5C%5C%0A%28-1%29%5Ek%20%26%20%5Ctext%7Bwhere%20%7Dr%5Ctext%7B%20is%20made%20up%20of%20%7Dk%5Ctext%7B%20primes%7D%0A%5Cend%7Bcases%7D.svg)
 
+Considering that all of the above still do not fully realize the mode of discovery for π(x), it is still a worthy pursuit to state them in tandem, because of their value in computation.
+
 [Source](deadlink)
 
 ## Highlights
@@ -35,3 +37,9 @@ I would argue from a pedagogical standpoint, the clear and total force of the ab
 ## No meaning?
 
 It is unclear whether the progression of 2^10 consecutive nonprime integers
+
+## Equations of potential future relevance
+
+![Eq5](https://math.vercel.app/?color=cyan&from=%5Czeta%281%20-%20x%29%20%3D%20%5Cfrac%7B2%7D%7B%282%5Cpi%29%5E%7Bx%7D%7D%5CGamma%28x%29%5Ccos%28%5Cfrac%7B%5Cpi%20x%7D%7B2%7D%29%5Czeta%28x%29.svg)
+
+![Eq6](https://math.vercel.app/?color=cyan&from=%5Czeta%28x%29%20%3D%20%5Cfrac%7B1%7D%7B1-2%5E%7B1-x%7D%7D%5Csum_%7Bn%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B%28-1%29%5E%7Bn-1%7D%7D%7Bn%5Ex%7D%7D.svg)
