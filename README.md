@@ -1,4 +1,4 @@
-# Pi(x)
+# pi(x)
 
 ## A number theoretical function allows striking visualization
 
@@ -8,13 +8,19 @@ Narrow expectations and vision aside, there was yet still to explore. Many appro
 
 ## The formal approximation
 
-![Eq1](https://math.vercel.app/?color=cyan&from=%5Ctext%7BPi%7D%28x%29%5Csim%5Cfrac%7Bx%7D%7B%5Cln%28x%29%7D.svg)
+![Eq1](https://math.vercel.app/?color=cyan&from=%5Ctext%7Bpi%7D%28x%29%5Csim%5Cfrac%7Bx%7D%7B%5Cln%28x%29%7D.svg)
 
-is uneffably useful and impactful in its simplicity. This expression falls naturally out of an understanding that, within the exact formulation of Pi(x) (namely the one given in the below source) is a summation of Li(x^\mu)'s which is in fact asymptotic to x/ln(x). What we have above is several tiers departed from any rigorous process of derivation, and yet, is usually presented as a standalone awe-inspiring formula.
+is ineffably useful and impactful in its simplicity. This expression falls naturally out of an understanding that, within the exact formulation of Pi(x) (namely the one given in the below source) is a summation of Li(x^\mu)'s which is in fact asymptotic to x/ln(x). What we have above is several tiers departed from any rigorous process of derivation, and yet, is usually presented as a standalone awe-inspiring formula.
 
 I would argue from a pedagogical standpoint, the clear and total force of the above asymptotic relation can really only be felt in the presence of:
 
 ![Eq2](https://math.vercel.app/?color=cyan&from=%5CPi%28x%29%20%3D%20%5Csum_%7B%5Crho%7D%5Ctext%7BLi%7D%28x%5E%5Crho%29%20-%20%5Cln%282%29%20%2B%20%5Cint_%7Bx%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7Bdt%7D%7Bt%281-t%5E2%29%5Cln%28t%29%7D%7D%0A.svg)
+
+![State1](https://math.vercel.app/?color=cyan&from=%5Ctext%7Bwhere%20%7Dx%20%3E%200%5Ctext%7B%20and%20%7D%5Crho%5Ctext%7B%20iterating%20all%20zeroes%20of%20the%20Riemann%20Zeta%20function%7D.svg)
+
+Now the following two equations hold
+
+![Eq3](https://math.vercel.app/?color=cyan&bgcolor=none&from=%5CPi%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B1%7D%7Br%7D%7D%5Ctext%7Bpi%7D%281%2Fr%29.svg)
 
 [Source](deadlink)
 
