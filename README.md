@@ -8,7 +8,7 @@ Narrow expectations and vision aside, there was yet still to explore. Many appro
 
 ## The formal approximation
 
-`Pi(x) ~ x/ln(x) as x->\infinity`
+![](https://math.now.sh?from=Pi(x)~\frac{x}{\ln(x)})
 
 is uneffably useful and impactful in its simplicity. This expression falls naturally out of an understanding that, within the exact formulation of Pi(x) (namely the one given in the below source) is a summation of Li(x^\mu)'s which is in fact asymptotic to x/ln(x). What we have above is several tiers departed from any rigorous process of derivation, and yet, is usually presented as a standalone awe-inspiring formula.
 
