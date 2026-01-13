@@ -20,9 +20,9 @@ I would argue from a pedagogical standpoint, the clear and total force of the ab
 
 Now the following two equations hold
 
-![Eq3](https://math.vercel.app/?color=cyan&from=%5CPi%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B1%7D%7Br%7D%7D%5Ctext%7B%5Cpi%7D%28x%5E%5Cfrac%7B1%7D%7Br%7D%29.svg)
+![Eq3](https://math.vercel.app/?color=cyan&from=%5CPi%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B1%7D%7Br%7D%7D%5Ctext%7Bpi%7D%28x%5E%5Cfrac%7B1%7D%7Br%7D%29.svg)
 
-![Eq4](https://math.vercel.app/?color=cyan&from=%5Ctext%7B%5Cpi%7D%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B%5Cmu%28x%29%7D%7Br%7D%7D%5CPi%28x%5E%5Cfrac%7B1%7D%7Br%7D%29.svg)
+![Eq4](https://math.vercel.app/?color=cyan&from=%5Ctext%7Bpi%7D%28x%29%20%3D%20%5Csum_%7Br%3D1%7D%5E%7B%5Cinfty%7D%7B%5Cfrac%7B%5Cmu%28x%29%7D%7Br%7D%7D%5CPi%28x%5E%5Cfrac%7B1%7D%7Br%7D%29.svg)
 
 [Source](deadlink)
 
