@@ -2,6 +2,8 @@
 
 ## A number theoretical function allows striking visualization
 
+![Img1](img/squared.png)
+
 The original prime visualization project repo'd [here](https://github.com/xleph/HilbertPrimes) follows a narrow train of thought. It was my expectation that patterned adjacencies would arise in the process of formatting prime numbers to a Hilbert curve presentation. In fact, this is ultimately unsurprising, given the existence of spokes on the Ulam spiral. Hilbert curves are, however, a flavor of prime density different from the prime-rich polynomials that are described by the Ulam spiral.
 
 Narrow expectations and vision aside, there was yet still to explore. Many approximations exist for the *n*th prime, formulations related to the Zeta function exist, formulations leveraging clever techniques related to factorials are also acknowledged, albeit not discussed. 
