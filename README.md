@@ -10,7 +10,7 @@ Narrow expectations and vision aside, there was yet still to explore. Many appro
 
 ## The formal approximation
 
-![Eq1](https://math.vercel.app/?color=cyan&from=%5Cpi%28x%29%5Csim%5Cfrac%7Bx%7D%7B%5Cln%28x%29%7D5Ctext%7B%20as%20%7Dx%5Cto%5Cinfty.svg)
+![Eq1](https://math.vercel.app/?color=cyan&from=%5Cpi%28x%29%5Csim%5Cfrac%7Bx%7D%7B%5Cln%28x%29%7D%5Ctext%7B%20as%20%7Dx%5Cto%5Cinfty.svg)
 
 is ineffably useful and impactful in its simplicity. This expression falls naturally out of an understanding that, within the exact formulation of π(x) (namely the one given in the below source) is a summation of Li(x<sup>ρ</sup>)'s which is in fact asymptotic to x/ln(x). What we have above is several tiers removed from any rigorous process of derivation, and yet, is usually presented as a standalone awe-inspiring formula.
 
