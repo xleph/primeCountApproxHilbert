@@ -1,12 +1,12 @@
 # π(x)
 
-## A number theoretical function allows striking visualization
+## A number theoretical function allows for striking visualizations
 
 ![Img1](img/squared.png)
 
-The original prime visualization project repo'd [here](https://github.com/xleph/HilbertPrimes) follows a narrow train of thought. It was my expectation that patterned adjacencies would arise in the process of formatting prime numbers to a Hilbert curve presentation. In fact, this is ultimately unsurprising, given the existence of spokes on the Ulam spiral. Hilbert curves are, however, a flavor of prime density different from the prime-rich polynomials that are described by the Ulam spiral.
+The original prime visualization project repo'd [here](https://github.com/xleph/HilbertPrimes) was the first along the same train of thought which led me here. It was my expectation that patterned adjacencies would arise in the process of formatting prime numbers to a Hilbert curve presentation - I thought that Hilbert curves were cool. In fact, this is ultimately unsurprising, given the existence of spokes on the Ulam spiral. Hilbert curves are, however, a flavor of prime density that is entirely different from the prime-rich polynomials that are visuallized by the Ulam spiral.
 
-Narrow expectations and vision aside, there was yet still to explore. Many approximations exist for the *n*th prime, formulations related to the Zeta function exist, formulations leveraging clever techniques related to factorials are also acknowledged, albeit not discussed. 
+Initial vision aside, there was yet still to explore. Many approximations exist for the *n*th prime, formulations related to the Zeta function exist, formulations leveraging clever techniques related to factorials are also acknowledged. I am chiefly concerned with the approximation x/ln(x) here.
 
 ## The formal approximation
 
