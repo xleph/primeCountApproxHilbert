@@ -49,7 +49,8 @@ Namely, I wanted to inspect the individual terms in the Taylor-adjacent series t
 ## Highlights
 
 ![img2](img/cubed.png)
-![img2](img/tmat.png)
+![img2](img/triangle_table_ln3.png)
+![img2](img/boxes.png)
 
 # Deriving meaning from the images
 
