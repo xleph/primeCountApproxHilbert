@@ -32,7 +32,24 @@ Considering that all of the above still do not fully realize the mode of discove
 
 [Source](deadlink)
 
+## What the approximation tells us
+
+As can be seen, the presence of [Li(x)](https://en.wikipedia.org/wiki/Logarithmic_integral_function) is as foundational as x/ln(x). If one attempts a standard Taylor series for Li(x) they will not have much success, as Li(x) possesses a simple pole at x = 1. This would seem to doom the derivation of such a series to failure. Indeed, the procured summation from such an excersize contains terms that grow in the factorial of n. One would then have the mind to defer to one of the formula's due to Ramanujan or Hardy. Each of those formulas depend somewhat on Li(x)'s definition in terms of Ei(ln(x)).
+
+Alas, but what if there were an easier way?
+
+Padé approximants seem a good candidate for upgrading our divergent, Taylor-adjacent series. Indeed, it has been loosely shown that on whatever order a Taylor-adjacent series diverges, its respective Padé approximants appear to converge as quickly if not more quickly. This, however leads to some frustration in that the pole Li(x = 1) seems to duplicate itself nastily and present transient poles where there were none in the original definition.
+
+This is all to say, that I was simply not going to putz around with calculating Li(x) when several expressions of interest were clearly available.
+
+Namely, I wanted to inspect the individual terms in the Taylor-adjacent series that all looked something like:
+
+![Eq5](https://math.vercel.app/?color=cyan&bgcolor=none&from=%28n%29!%5Cleft%28%5Cfrac%7Bx%7D%7Bln%28x%29%7D%5Cright%29%5En.svg)
+
 ## Highlights
+
+![img2](img/cubed.png)
+![img2](img/tmat.png)
 
 # Deriving meaning from the images
 
